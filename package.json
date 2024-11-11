@@ -7,6 +7,7 @@
     "@react-navigation/native": "^7.0.0",
     "@react-navigation/stack": "^7.0.0",
     "react-native-elements": "^3.4.3",
-    "react-native-stripe-sdk": "^0.0.0"
+    "react-native-stripe-sdk": "^0.0.0",
+    "react-router-dom": "^6.28.0"
   }
 }
